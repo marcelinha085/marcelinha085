@@ -1,16 +1,15 @@
-## Hi there 👋
+## hello people, welcome to my profile :💕
 
-<!--
-**marcelinha085/marcelinha085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou a Marcela Mendes
 
-Here are some ideas to get you started:
+- sou estudante do 2 ano do ensino médio
+- fiz curso de inglês por um ano
+- fui atleta de ginaástica de alto rendimento por 9 anos
+- fiz natação
+- fiz basquete
+- fiz aula de música
+- fiz aula de futsal
+- estou fazendo9 curso de rotinas administrativas atualmente
+- irei prestar enem esse ano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/IIxvyrhdmJEAAAAC/love-hearts.gif)
